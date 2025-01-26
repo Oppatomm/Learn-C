@@ -10,4 +10,5 @@ int main () {
     remainder = numerator % denominator;
 
     printf("The remainder is : %d\n" , remainder);
+    return 0;
 }
